@@ -2,8 +2,8 @@
 title: Mostly Trub
 email: james@jagrieve.com
 description: "Misadventures in homebrewing and fermentation in Singapore."
-baseurl: ""
-url: "http://beer.jagrieve.com"
+baseurl: "/"
+url: "http://trub.jagrieve.com"
 twitter_username: jamesagrieve
 github_username:  jagrieve
 excerpt_separator: "----"
