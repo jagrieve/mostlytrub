@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2014-05-09
+categories: brewing wine
+comments: true
+icon: site
+---
+
+
+Hi folks!
+
+This is going to be a journal/reference of sorts for the various homebrewing and fermenting adventures here in sunny Singapore.
+
+----
+
+In the past two days, I have started:
+
+-   A glutinous rice wine, following a post by my friend [Hong Yee](http://madhausbeer.blogspot.sg/2013/05/chinese-rice-wine.html);
+-   A batch of kombucha, after being donated a SCOBY by a fellow homebrewer;
+-   An Extra Strong Bitter;
+-   A malted, slightly hopped cider.
+
+I didn’t take any photos, but perhaps I’ll put some up as things progress. Cheers!
+
